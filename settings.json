@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "boot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "EGO_Friends.aternos.me",
-    "port": 22067,
+    "ip": "EGO_Friend_LIFESTEAL.aternos.me",
+    "port": 14828,
     "version": "",
     "try-creative": false
   },
@@ -27,8 +27,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
@@ -39,7 +39,7 @@
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "max-reconnect-delay": 7000,
   },
   "movement": {
     "enabled": true,

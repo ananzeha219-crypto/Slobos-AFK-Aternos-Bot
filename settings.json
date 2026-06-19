@@ -8,7 +8,7 @@
   "server": {
     "ip": "EGO_Friend_LIFESTEAL.aternos.me",
     "port": 14828,
-    "version": "1.21.1",
+    "version": "",
     "try-creative": false
   },
   "position": {
@@ -39,7 +39,7 @@
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 7000,
+    "max-reconnect-delay": 120000,
   },
   "movement": {
     "enabled": true,

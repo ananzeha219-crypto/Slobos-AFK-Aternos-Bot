@@ -8,7 +8,7 @@
   "server": {
     "ip": "EGO_Friend_LIFESTEAL.aternos.me",
     "port": 14828,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
